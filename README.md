@@ -6,8 +6,8 @@
 ---
 
 ### 🔧 Currently Building:
-- 🤖 **JobWizard** – an AI-powered job search assistant using  
-- 📄 **SmartDocs Studio** – an AI-native platform for documentation
+- 🤖 **Project Sentinel** – an AI-powered job search assistant  
+- 📄 **Project Orion** – an AI-native platform for documentation
 
 ---
 
