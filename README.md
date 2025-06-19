@@ -4,7 +4,7 @@
 🚀 On a mission to simplify complex things – with clarity, creativity, and code (sometimes no-code 😄)
 
 # 💫 About Me:
-🎯 Product & Program Management (8+ yrs)<br>📝 Technical Writing for SaaS, B2B & Platforms<br>📊 Process Automation & Knowledge Management<br>💡 AI + No-Code Experiments (n8n,Zaprier, OpenAI, Sheets)<br>
+🎯 Product & Program Management (8+ yrs)<br>📝 Technical Writing for SaaS, B2B & Platforms<br>📊 Process Automation & Knowledge Management<br>💡 AI + No-Code Experiments (n8n, Zapier, Make.com, OpenAI, Sheets)<br>
 
 ---
 
