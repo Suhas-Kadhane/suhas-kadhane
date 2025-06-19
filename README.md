@@ -3,6 +3,8 @@
 🧑‍💻 A curious builder at the intersection of Product, Documentation, and AI  
 🚀 On a mission to simplify complex things – with clarity, creativity, and code (sometimes no-code 😄)
 
+# 💫 About Me:
+🎯 Product & Program Management (8+ yrs)<br>📝 Technical Writing for SaaS, B2B & Platforms<br>📊 Process Automation & Knowledge Management<br>💡 AI + No-Code Experiments (n8n,Zaprier, OpenAI, Sheets)<br>
 ---
 
 ### 🔧 Currently Building:
@@ -29,10 +31,6 @@
 > — Probably Suhas 😉
 
 ---
-
-# 💫 About Me:
-🎯 Product & Program Management (8+ yrs)<br>📝 Technical Writing for SaaS, B2B & Platforms<br>📊 Process Automation & Knowledge Management<br>💡 AI + No-Code Experiments (Make.com, OpenAI, Sheets)
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suhas-kadhane) 
