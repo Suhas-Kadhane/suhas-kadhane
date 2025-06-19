@@ -6,8 +6,8 @@
 ---
 
 ### 🔧 Currently Building:
-- 🤖 **JobWizard** – an AI-powered job search assistant using Make.com + OpenRouter + Sheets + Gmail  
-- 📄 **SmartDocs Studio** – an AI-native platform for documentation (think GenAI + structure + scalability)
+- 🤖 **JobWizard** – an AI-powered job search assistant using  
+- 📄 **SmartDocs Studio** – an AI-native platform for documentation
 
 ---
 
