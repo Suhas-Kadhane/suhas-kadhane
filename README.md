@@ -1,4 +1,7 @@
-👋 Hi! I am Suhas - a Product & Program Manager, Technical Writer, and Knowledge Management Specialist.<br> 👀 Passionate about AI for personal growth, automation, and exploring astrophysics & quantum mechanics.<br> 🌱 Currently building Project Orion (AI-native documentation platform) & Project Sentinel (AI job search assistant).<br> 💡 Exploring new trends in technical writing, systems thinking, information architecture, and workflow automation.<br>
+- 👋 Hi! I am Suhas - a Product & Program Manager, Technical Writer, and Knowledge Management Specialist.<br> 
+- 👀 Passionate about AI for personal growth, automation, and exploring astrophysics & quantum mechanics.<br>
+- 🌱 Currently building Project Orion (AI-native documentation platform) & Project Sentinel (AI job search assistant).<br>
+- 💡 Exploring new trends in technical writing, systems thinking, information architecture, and workflow automation.<br>
 
 ---
 
