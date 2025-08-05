@@ -1,4 +1,10 @@
-- 👋 Hi! I am Suhas - a Product & Program Manager, Technical Writer, and Knowledge Management Specialist.<br> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&height=60&lines=Greetings+Humans!;I+am+Suhas.;Welcome+to+the+Matrix!"/>
+</p>
+
+---
+
+- 👋 I am a Product & Program Manager, Technical Writer, and Knowledge Management Specialist.<br> 
 - 👀 Passionate about AI for personal growth, automation, and exploring astrophysics & quantum mechanics.<br>
 - 🌱 Currently building Project Orion (AI-native documentation platform) & Project Sentinel (AI job search assistant).<br>
 - 💡 Exploring new trends in technical writing, systems thinking, information architecture, and workflow automation.<br>
