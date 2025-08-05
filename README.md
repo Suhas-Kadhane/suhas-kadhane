@@ -4,14 +4,13 @@
 🚀 On a mission to simplify complex things – with clarity, creativity, and code (sometimes no-code 😄)
 
 # 💫 About Me:
-🎯 Product & Program Management (8+ yrs)<br>📝 Technical Writing for SaaS, B2B & Platforms (4 yrs)<br>📊 Process Automation & Knowledge Management<br>💡 AI + No-Code Experiments (n8n, Zapier, Make.com, OpenAI, Sheets)<br>
+🎯 Product & Program Management (7+ yrs)<br>📝 Technical Writing for SaaS, B2B & Platforms (5 yrs)<br>📊 Process Automation & Knowledge Management<br>💡 AI + No-Code Experiments (n8n, Zapier, Make.com, OpenAI, Sheets)<br>
 
 ---
 
 ### 🔧 Currently Building:
-- 🤖 **Project Sentinel** – an AI-powered job search assistant  
 - 📄 **Project Orion** – an AI-native platform for documentation
-
+- 🤖 **Project Sentinel** – an AI-powered job search assistant
 ---
 
 ### 🧠 Interests:
