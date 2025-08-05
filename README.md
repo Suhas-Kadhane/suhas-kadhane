@@ -5,8 +5,9 @@
 ---
 
 - 👋 I am a Product & Program Manager, Technical Writer, and Knowledge Management Specialist.<br> 
-- 👀 Passionate about AI for personal growth, automation, and exploring astrophysics & quantum mechanics.<br>
-- 🌱 Currently building Project Orion (AI-native documentation platform) & Project Sentinel (AI job search assistant).<br>
+- 👀 Passionate about AI for personal growth, automation, and delving into complex systems.<br>
+- 🔭 Dedicated to astrophysics & quantum mechanics, unraveling the mysteries of the universe.<br>
+- 🌱 Currently building passion projects such as Orion (an AI-native documentation platform) & Sentinel (an AI-powered job search assistant).<br>
 - 💡 Exploring new trends in technical writing, systems thinking, information architecture, and workflow automation.<br>
 
 ---
