@@ -20,7 +20,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@suhasbuilds) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suhasbuilds@gmail.com)
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white)](https://www.figma.com/@suhasbuilds)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=suhas-kadhane&icon=2&color=13)](https://visitcount.itsvg.in)
