@@ -12,7 +12,7 @@ I’m an engineer, tech writer, and an aspiring developer passionate about syste
 ---
 
 ### 💻 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,python,markdown,mysql,postman,github,git,githubactions,gitlab,firebase,vscode,figma,notion,ps,illustrator&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,python,markdown,mysql,postman,graphql,stackoverflow,github,git,githubactions,gitlab,firebase,vscode,figma,notion,ps,illustrator,&theme=light)](https://skillicons.dev)
 
 ### 🌐 Socials:
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/suhas-kadhane/)
