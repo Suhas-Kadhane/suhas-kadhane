@@ -12,12 +12,12 @@ I’m an engineer, tech writer, and an aspiring developer passionate about syste
 ---
 
 ### 💻 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,python,markdown,mysql,postman,graphql,stackoverflow,github,git,githubactions,gitlab,firebase,vscode,figma,notion,ps,illustrator,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,python,markdown,mysql,postman,graphql,stackoverflow,github,git,githubactions,gitlab,firebase,vscode,figma,notion,ps,illustrator,&theme=dark)](https://skillicons.dev)
 
 ### 🌐 Socials:
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/suhas-kadhane/)
-[![My Skills](https://skillicons.dev/icons?i=discord&theme=light)](https://discord.gg/https://discord.com/channels/@me)
-[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://www.figma.com/@suhasbuilds)
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/suhas-kadhane/)
+[![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.gg/https://discord.com/channels/@me)
+[![My Skills](https://skillicons.dev/icons?i=figma&theme=dark)](https://www.figma.com/@suhasbuilds)
 
 ---
 ### 📊 Stats
