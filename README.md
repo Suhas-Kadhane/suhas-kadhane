@@ -5,7 +5,7 @@
 ---
 # 🏄‍♂️ Suhas Kadhane
 
-**`A Curious Storyteller (Engineer/Tech Writer/Aspiring Dev/Cinephile/Quantum Mechanics Nerd)`**
+**`A Curious Storyteller (Engineer/Product & Program Manager/Aspiring AI Generalist/Cinephile/Quantum Mechanics Nerd)`**
 
 I’m an engineer, tech writer, and an aspiring developer passionate about systems thinking, automation, and AI for documentation and personal growth. A cinephile and quantum mechanics nerd at heart, I’m currently building Orion (AI-native documentation) and Sentinel (AI-powered job search assistant).
 
