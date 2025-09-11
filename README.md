@@ -11,7 +11,7 @@
 * A cinephile and quantum mechanics nerd at heart, I’m currently building Orion (AI-native documentation) and Sentinel (AI-powered job search assistant).
 
 ---
-[![Tech Stack](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=40&duration=4000&pause=5000&color=FFFFFF&width=435&height=60&lines=%F0%9F%A7%B0+Tech+Stack)](https://git.io/typing-svg)
+[![Tech Stack](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=30&duration=3000&pause=500&color=FFFFFF&width=500&height=60&lines=%F0%9F%A7%B0+Tech+Stack)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -21,7 +21,7 @@
 
 ---
 
-[![Connect With Me](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=40&duration=4000&pause=5000&color=FFFFFF&width=435&height=70&lines=%F0%9F%94%97+Connect+with+Me)](https://git.io/typing-svg)
+[![Connect With Me](https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=30&duration=3000&pause=500&color=FFFFFF&width=500&height=60&lines=%F0%9F%94%97+Connect+with+Me)](https://git.io/typing-svg)
 
 <p align="center">
     <a href="https://linkedin.com/in/suhas-kadhane" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=black" /></a>
