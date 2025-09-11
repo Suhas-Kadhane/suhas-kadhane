@@ -7,7 +7,7 @@
 
 **`A Curious Storyteller (Engineer/Product & Program Manager/Aspiring AI Generalist/Cinephile/Quantum Mechanics Nerd)`**
 
-* I’m an engineer, product & program manager, technical writer and an aspiring AI generalist passionate about systems thinking, automation, and AI for documentation and personal growth.
+* I’m an Engineer, Product & Program Manager, Technical Writer and an aspiring AI Generalist passionate about Systems Thinking, Automation, and AI for Documentation and Personal Growth.
 * A cinephile and quantum mechanics nerd at heart, I’m currently building Orion (AI-native documentation) and Sentinel (AI-powered job search assistant).
 
 ---
