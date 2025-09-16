@@ -26,6 +26,7 @@
 <p align="center">
     <a href="https://linkedin.com/in/suhas-kadhane" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=black" /></a>
     <a href="https://medium.com/@suhaskadhane" target="_blank"><img alt="medium" src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=Medium&logoColor=white" /></a>
+  <a href="https://www.salesforce.com/trailblazer/profile" target="_blank"><img alt="salesforce" src="https://img.shields.io/badge/-Salesforce-21A0DF?style=for-the-badge&logo=Salesforce&logoColor=white" /></a>
    <a href="https://discord.gg/https://discord.com/channels/@me" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
     <a href="https://www.figma.com/@suhasbuilds" target="_blank"><img alt="figma" src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=Figma&logoColor=white" /></a>
 </p>
