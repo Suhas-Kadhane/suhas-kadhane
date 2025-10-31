@@ -5,10 +5,10 @@
 ---
 # 🏄‍♂️ Suhas Kadhane
 
-**`A Curious Storyteller (Engineer/Product & Program Manager/Aspiring AI Generalist/Cinephile/Quantum Mechanics Nerd)`**
+**`A Curious Storyteller (Engineer/Product & Knowledge Manager/Cinephile/Quantum Mechanics Nerd)`**
 
-* I’m an Engineer, Product & Program Manager, Technical Writer and an aspiring AI Generalist passionate about Systems Thinking, Automation, and AI for Documentation and Personal Growth.
-* A cinephile and quantum mechanics nerd at heart, I’m currently building Orion (AI-native documentation) and Sentinel (AI-powered job search assistant).
+* I am an Engineer, Product & Knowledge Manager, Technical Writer, and aspiring AI Generalist passionate about Systems Thinking, Automation, and using AI for Documentation and Personal Growth.
+* A cinephile and quantum mechanics nerd at heart, I am currently exploring ways to bridge the knowledge gap between software and its users.
 
 ---
 [![Tech Stack](https://readme-typing-svg.demolab.com?font=Fira&weight=500&size=30&duration=3000&pause=500&color=00FF00&width=500&height=60&lines=%F0%9F%A7%B0+Tech+Stack)](https://git.io/typing-svg)
