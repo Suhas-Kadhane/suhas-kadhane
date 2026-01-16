@@ -5,7 +5,7 @@
 ---
 # 🏄‍♂️ Suhas Kadhane
 
-**`Product & Knowledge Architect | Salesforce Automation & Systems Thinker | Bridging the User-Software Gap`**
+**`Salesforce Developer, Admin & Product Architect | Automation & Systems Thinker | Bridging the User-Software Gap`**
 
 * __Automation Focus:__ Leveraging Salesforce Administrator skills and systems thinking to design and implement automated workflows, improving data integrity and operational efficiency for enablement teams.
 * __Development & Documentation:__ Focused on the development of robust, automated knowledge bases and Product Documentation strategies that scale with product complexity.
