@@ -4,15 +4,42 @@
 
 ---
 # 🏄‍♂️ Suhas Kadhane
+**`Salesforce Developer, Admin & Product Architect | Agentforce & CRM Architect | Automation & Systems Thinker`**
 
-**`Salesforce Developer, Admin & Product Architect | Automation & Systems Thinker | Bridging the User-Software Gap`**
+**Bridging the gap between complex CRM architecture and seamless user experiences.**
 
-* __Automation Focus:__ Leveraging Salesforce Administrator skills and systems thinking to design and implement automated workflows, improving data integrity and operational efficiency for enablement teams.
-* __Development & Documentation:__ Focused on the development of robust, automated knowledge bases and Product Documentation strategies that scale with product complexity.
-* __Current Mission:__ Bridging the user-software knowledge gap by standardizing content, optimizing information architecture, and measuring feature adoption through data-driven insights.
-* _Outside of work:_ Dedicated Cinephile and Quantum Mechanics enthusiast.
+I am a Salesforce professional with 8+ years of experience, specializing in the transition from traditional Administration to **AI-driven Technical Implementation**. I focus on building autonomous systems that are as well-documented as they are high-performing.
+
+**🚀 Current Technical Mission**
+
+- **AI & Agentic Systems:** Architecting autonomous agents using Agentforce and Data Cloud Grounding.
+- **Pro-Code Development:** Crafting custom UI and logic via Lightning Web Components (LWC) and Apex Triggers.
+- **Integrations:** Connecting Salesforce to the world via External Services and API-driven Screen Flows.
+- **Technical Writing:** Standardizing complex information architecture into stakeholder-ready documentation.
+
+**📽️ Featured Build: FilmClub CRM**
+
+A full-stack Salesforce implementation designed to bridge the gap between business logic and the cinema experience.
+
+- **OMDb API Integration:** A custom Screen Flow that dynamically fetches IMDb metadata directly into Salesforce.
+- **Media Command Center:** A Netflix-style Home Page UI featuring visual posters and curated collections.
+- **Autonomous Support:** An Agentforce Service Agent that manages member RSVPs and movie FAQs.
+- **[Explore the Repository](https://github.com/Suhas-Kadhane/Salesforce-FilmClub-App/tree/main)**
+
+**🛠️ Toolbox**
+
+- **Platforms:** Salesforce (Agentforce, Data Cloud, Sales/Service Cloud), GitHub, VS Code.
+- **Technical:** Apex, LWC, SOQL, Flow Builder (Record-Triggered/Orchestrator), JSON/APIs.
+- **Strategy:** Technical Writing (SOPs), RevOps, Agile (Jira), Information Architecture.
+
+**🔭 Beyond the CRM**
+
+- **🎬 Dedicated Cinephile:** Currently merging my love for film with my tech stack via the FilmClub project.
+- **⚛️ Quantum Mechanics Enthusiast:** Fascinated by the architecture of non-intuitive systems.
+- **✍️ Thought Leader:** Sharing Salesforce AI strategies and technical implementation guides on Medium.
 
 ---
+
 [![Tech Stack](https://readme-typing-svg.demolab.com?font=Fira&weight=500&size=30&duration=3000&pause=500&color=00FF00&width=500&height=60&lines=%F0%9F%A7%B0+Tech+Stack)](https://git.io/typing-svg)
 
 <p align="center">
