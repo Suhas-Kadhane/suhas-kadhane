@@ -25,6 +25,7 @@ A full-stack Salesforce implementation designed to bridge the gap between busine
 - **Media Command Center:** A Netflix-style Home Page UI featuring visual posters and curated collections.
 - **Autonomous Support:** An Agentforce Service Agent that manages member RSVPs and movie FAQs.
 - **[Explore the Repository](https://github.com/Suhas-Kadhane/Salesforce-FilmClub-App/tree/main)**
+- **Architected and deployed an Agentforce AI agent in Salesforce. [See the complete technical implementation guide.](https://github.com/Suhas-Kadhane/Salesforce-FilmClub-App/blob/6f4eec456438da2a282f8b05d75b6ad8630d079f/agentforce-ai-implementation.md)**
 
 **🛠️ Toolbox**
 
