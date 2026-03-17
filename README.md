@@ -3,41 +3,100 @@
 </p>
 
 ---
-# 🏄‍♂️ Suhas Kadhane
-**`Senior Salesforce Admin & Builder | Agentforce & CRM Architect | Automation & Systems Thinker`**
+# 🏄‍♂️ Hi, I'm Suhas
+**`Senior Salesforce Admin, Builder, and Developer focused on AI driven automation, CRM architecture, and practical system design.`**
 
-**Bridging the gap between complex CRM architecture and seamless user experiences.**
+**Building AI powered tools and automation systems on Salesforce.**
 
-I am a Salesforce professional with 8+ years of experience, specializing in the transition from traditional Administration to **AI-driven Technical Implementation**. I focus on building autonomous systems that are as well-documented as they are high-performing.
+---
 
-**🚀 Current Technical Mission**
+## What I Do
+
+- Build Salesforce automation using Flows, Apex, and Lightning Web Components  
+- Design AI driven workflows using Agentforce and Data Cloud  
+- Develop API based integrations and external service connections  
+- Create structured technical documentation for systems and processes  
+
+---
+
+## Current Technical Mission
 
 - **AI & Agentic Systems:** Architecting autonomous agents using Agentforce and Data Cloud Grounding.
 - **Pro-Code Development:** Crafting custom UI and logic via Lightning Web Components (LWC) and Apex Triggers.
 - **Integrations:** Connecting Salesforce to the world via External Services and API-driven Screen Flows.
 - **Technical Writing:** Standardizing complex information architecture into stakeholder-ready documentation.
 
-**📽️ Featured Build: FilmClub CRM**
+## Featured Projects:
 
-A full-stack Salesforce implementation designed to bridge the gap between business logic and the cinema experience.
+### FilmClub CRM
+
+A full-stack Salesforce implementation that connects business workflows with a real world cinema experience.
+
+**Key Features**
 
 - **OMDb API Integration:** A custom Screen Flow that dynamically fetches IMDb metadata directly into Salesforce.
 - **Media Command Center:** A Netflix-style Home Page UI featuring visual posters and curated collections.
 - **Autonomous Support:** An Agentforce Service Agent that manages member RSVPs and movie FAQs.
-- **[Explore the Repository](https://github.com/Suhas-Kadhane/Salesforce-FilmClub-App/tree/main)**
-- **Architected and deployed an Agentforce AI agent in Salesforce. [See the complete technical implementation guide.](https://github.com/Suhas-Kadhane/Salesforce-FilmClub-App/blob/6f4eec456438da2a282f8b05d75b6ad8630d079f/agentforce-ai-implementation.md)**
+- **Agentforce AI Implementation:** Built and deployed an Agentforce Service Agent with 5 topic classifications and 6 grounded Knowledge Articles to automate member queries and RSVP handling.
+
+**Repositories:** 
+
+[FilmClub CRM](https://github.com/Suhas-Kadhane/Salesforce-FilmClub-App/tree/6f4eec456438da2a282f8b05d75b6ad8630d079f)
+
+[Agentforce Agent Implementation](https://github.com/Suhas-Kadhane/Salesforce-FilmClub-App/blob/6f4eec456438da2a282f8b05d75b6ad8630d079f/agentforce-ai-implementation.md)
+
+---
+
+### Salesforce Recruiter Copilot
+
+An AI powered tool that converts Salesforce job descriptions into structured recruiter screening guides. Built to solve a real gap in Salesforce hiring where recruiters often lack context to evaluate technical roles effectively.
+
+**What it does:**
+
+- **Salesforce Stack Intelligence**: Extracts Salesforce technologies and platform components from job descriptions
+- **AI Question Generation Engine**: Generates recruiter friendly screening questions tailored to the role
+- **Experience Level Classifier**: Identifies seniority level and expected candidate profile
+- **Evaluation Framework Builder**: Creates a structured checklist for candidate assessment
+- **Automated Report Delivery System**: Generates and delivers output via document and email
+
+**How it works:**
+
+Google Form → Google Sheets → Automation → AI Processing → Google Docs → Email delivery
+
+**Tech Stack:**
+- Google Forms
+- Google Sheets
+- Make.com
+- OpenRouter
+- Google Docs
+- Gmail
+
+**Repository:** [Salesforce Recruiter Copilot](https://github.com/Suhas-Kadhane/salesforce-recruiter-copilot)
+
+---
+
+## Ongoing Projects
+
+- An AI-powered Documenation Assistant for Salesforce learners
+- AI Job Search Automation Workflow
+
+---
 
 **🛠️ Toolbox**
 
-- **Platforms:** Salesforce (Agentforce, Data Cloud, Sales/Service Cloud), GitHub, VS Code.
-- **Technical:** Apex, LWC, SOQL, Flow Builder (Record-Triggered/Orchestrator), JSON/APIs.
-- **Strategy:** Technical Writing (SOPs), RevOps, Agile (Jira), Information Architecture.
+- **Platforms:** Salesforce, Agentforce, Data Cloud, Sales/Service/Experience Cloud
+- **Development:** Apex, LWC, SOQL, JavaScript, HTML, CSS, Flow Builder (Record-Triggered/Orchestrator), JSON/APIs
+- **Tools:** GitHub, VS Code, Salesforce CLI
+- **Concepts:** APIs, Automation, System Design
+- **Strategy:** Technical Documentation, RevOps, Agile (Jira), Information Architecture
 
-**🔭 Beyond the CRM**
+---
 
-- **🎬 Dedicated Cinephile:** Currently merging my love for film with my tech stack via the FilmClub project.
-- **⚛️ Quantum Mechanics Enthusiast:** Fascinated by the architecture of non-intuitive systems.
-- **✍️ Thought Leader:** Sharing Salesforce AI strategies and technical implementation guides on Medium.
+**Interests**
+
+- **Dedicated Cinephile:** Currently merging my love for film with my tech stack via the FilmClub project.
+- **Quantum Mechanics Enthusiast:** Fascinated by the architecture of non-intuitive systems.
+- **Thought Leader:** Sharing Salesforce AI strategies and technical implementation guides on Medium.
 
 ---
 
