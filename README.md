@@ -3,28 +3,26 @@
 </p>
 
 ---
-# 🏄‍♂️ Hi, I'm Suhas
-**`Senior Salesforce Admin, Builder, and Developer focused on AI driven automation, CRM architecture, and practical system design.`**
-
-**Building AI powered tools and automation systems on Salesforce.**
+# 🏄‍♂️ Hi, I'm Suhas!
+**Salesforce Builder and Developer focused on AI-driven automation, CRM architecture, and practical system design. I love building tools and automation systems on Salesforce as well as across the broader Multiverse of full-stack development.**
 
 ---
 
 ## What I Do
 
-- Build Salesforce automation using Flows, Apex, and Lightning Web Components  
-- Design AI driven workflows using Agentforce and Data Cloud  
-- Develop API based integrations and external service connections  
-- Create structured technical documentation for systems and processes  
+- Build Salesforce automation using Flows, Apex, and Lightning Web Components
+- Design AI driven workflows using Agentforce and Data Cloud
+- Develop API based integrations and external service connections
+- Create structured technical documentation for systems and processes 
 
 ---
 
 ## Current Technical Mission
 
-- **AI & Agentic Systems:** Architecting autonomous agents using Agentforce and Data Cloud Grounding.
-- **Pro-Code Development:** Crafting custom UI and logic via Lightning Web Components (LWC) and Apex Triggers.
-- **Integrations:** Connecting Salesforce to the world via External Services and API-driven Screen Flows.
-- **Technical Writing:** Standardizing complex information architecture into stakeholder-ready documentation.
+- **AI & Agentic Systems:** Architecting autonomous agents using Agentforce and Data Cloud Grounding
+- **Pro-Code Development:** Crafting custom UI and logic via Lightning Web Components (LWC) and Apex Triggers
+- **Integrations:** Connecting Salesforce to the world via External Services and API-driven Screen Flows
+- **Technical Writing:** Standardizing complex information architecture into stakeholder-ready documentation
 
 ## Featured Projects:
 
