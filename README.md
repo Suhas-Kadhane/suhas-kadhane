@@ -4,7 +4,7 @@
 
 ---
 # 🏄‍♂️ Hi, I'm Suhas!
-**Salesforce Builder and Developer focused on AI-driven automation, CRM architecture, and practical system design. I love building tools and automation systems on Salesforce as well as across the broader Multiverse of full-stack development.**
+**Salesforce Business Analyst, Builder and Developer focused on AI-driven automation, CRM architecture, and practical system design. I love building tools and automation systems on Salesforce as well as across the broader Multiverse of full-stack development.**
 
 ---
 
