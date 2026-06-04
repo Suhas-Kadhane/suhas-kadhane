@@ -6,6 +6,8 @@
 # 🏄‍♂️ Hi, I'm Suhas!
 **Salesforce Business Analyst, Builder and Developer focused on AI-driven automation, CRM architecture, and practical system design. I love building tools and automation systems on Salesforce as well as across the broader Multiverse of full-stack development.**
 
+**Check my recent Salesforce Implementation projects:** **[SF Implementations](https://github.com/Suhas-Kadhane/Salesforce-Business-Analyst-Toolkit)**
+
 ---
 
 ## What I Do
