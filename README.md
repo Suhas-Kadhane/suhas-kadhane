@@ -6,8 +6,6 @@
 # 🏄‍♂️ Hi, I'm Suhas!
 **Salesforce Business Analyst, Builder and Developer focused on AI-driven automation, CRM architecture, and practical system design. I love building tools and automation systems on Salesforce as well as across the broader Multiverse of full-stack development.**
 
-**Check my recent Salesforce Implementation projects:** **[SF Implementations](https://github.com/Suhas-Kadhane/Salesforce-Business-Analyst-Toolkit)**
-
 ---
 
 ## What I Do
@@ -19,14 +17,11 @@
 
 ---
 
-## Current Technical Mission
-
-- **AI & Agentic Systems:** Architecting autonomous agents using Agentforce and Data Cloud Grounding
-- **Pro-Code Development:** Crafting custom UI and logic via Lightning Web Components (LWC) and Apex Triggers
-- **Integrations:** Connecting Salesforce to the world via External Services and API-driven Screen Flows
-- **Technical Writing:** Standardizing complex information architecture into stakeholder-ready documentation
-
 ## Featured Projects:
+
+**Recent Salesforce Implementations:** **[SF Projects](https://github.com/Suhas-Kadhane/Salesforce-Business-Analyst-Toolkit)**
+
+## Other Projects:
 
 ### FilmClub CRM
 
@@ -75,13 +70,6 @@ Google Form → Google Sheets → Automation → AI Processing → Google Docs �
 
 ---
 
-## Ongoing Projects
-
-- An AI-powered Documenation Assistant for Salesforce learners
-- AI Job Search Automation Workflow
-
----
-
 **🛠️ Toolbox**
 
 - **Platforms:** Salesforce, Agentforce, Data Cloud, Sales/Service/Experience Cloud
@@ -89,14 +77,6 @@ Google Form → Google Sheets → Automation → AI Processing → Google Docs �
 - **Tools:** GitHub, VS Code, Salesforce CLI
 - **Concepts:** APIs, Automation, System Design
 - **Strategy:** Technical Documentation, RevOps, Agile (Jira), Information Architecture
-
----
-
-**Interests**
-
-- **Dedicated Cinephile:** Currently merging my love for film with my tech stack via the FilmClub project.
-- **Quantum Mechanics Enthusiast:** Fascinated by the architecture of non-intuitive systems.
-- **Thought Leader:** Sharing Salesforce AI strategies and technical implementation guides on Medium.
 
 ---
 
