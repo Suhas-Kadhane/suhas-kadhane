@@ -20,21 +20,37 @@ Currently building end-to-end portfolio projects spanning Customer Success syste
 
 ## Featured Projects:
 
-**Customer Success TTV Platform:**
+### Customer Success TTV Platform
 
-A portfolio SaaS platform that demonstrates how Customer Success teams drive onboarding, product adoption, retention, and customer outcomes. The project includes customer onboarding journeys, health scoring frameworks, success plans, QBRs, stakeholder management workflows, and Time-to-Value optimization strategies commonly used in B2B SaaS organizations. Inspired by modern Customer Success practices such as onboarding, health scoring, retention, and expansion workflows.
+A SaaS Customer Success simulation platform focused on improving Time-to-Value (TTV), onboarding efficiency, adoption tracking, and customer success planning.
+
+Key areas:
+- Customer onboarding workflows
+- Health scoring and success metrics
+- Adoption tracking and reporting
+- Success planning and stakeholder alignment
 
 **Repository:** [Customer Success TTV Platform](https://github.com/Suhas-Kadhane/customer-success-ttv-platform)
 
 ---
 
-**Salesforce Business Analyst Toolkit:** A collection of real-world Salesforce Business Analyst artifacts demonstrating business process analysis, requirements documentation, stakeholder management, user story creation, and solution design across Salesforce implementations.
+### Salesforce Business Analyst Toolkit
 
-**Repository:** **[SF Projects](https://github.com/Suhas-Kadhane/Salesforce-Business-Analyst-Toolkit)**
+A collection of Salesforce BA artifacts including requirements gathering, user stories, process mapping, stakeholder documentation, and solution design templates used in CRM implementations.
+
+**Repository:** **[SF BA Toolkit](https://github.com/Suhas-Kadhane/Salesforce-Business-Analyst-Toolkit)**
 
 ---
 
-**FilmClub CRM:** Salesforce Service Cloud implementation for a fictional cinema membership business featuring OMDb API integration, Agentforce-powered customer support, Knowledge Articles, and automated member workflows.
+### FilmClub CRM
+
+A Salesforce Service Cloud implementation for a fictional cinema business integrating CRM workflows, APIs, and AI-powered support automation.
+
+Key features:
+- OMDb API integration via Flow for dynamic movie metadata
+- Agentforce-powered customer support agent
+- Knowledge Articles for self-service support
+- Automated RSVP and membership workflows
 
 **Repositories:** 
 
@@ -44,16 +60,24 @@ A portfolio SaaS platform that demonstrates how Customer Success teams drive onb
 
 ---
 
-**Salesforce Recruiter Copilot:** AI-powered recruiter assistant that analyzes Salesforce job descriptions and generates screening questions, candidate evaluation frameworks, and hiring guides using Make.com and OpenRouter.
+### Salesforce Recruiter Copilot
+
+An AI-powered automation tool that converts Salesforce job descriptions into structured recruiter screening guides.
+
+Key features:
+- Salesforce skill extraction from job descriptions
+- AI-generated interview questions and evaluation rubrics
+- Candidate seniority classification
+- Automated report generation via Google Workspace workflows
 
 **Repository:** **[Salesforce Recruiter Copilot](https://github.com/Suhas-Kadhane/salesforce-recruiter-copilot)**
 
 ---
 ## Other Projects
 
-### ExplainThis
+### ExplainThis Web App
 
-A browser extension that simplifies complex online content by providing AI-generated explanations and contextual insights directly within the user's workflow.
+A lightweight browser extension/web app that simplifies complex content using AI-generated explanations directly in the user’s workflow.
 
 **Repository:** **[Explain This](https://github.com/Suhas-Kadhane/explainthis-webapp)**
 
