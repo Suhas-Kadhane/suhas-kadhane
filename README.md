@@ -30,7 +30,7 @@ Key areas:
 - Adoption tracking and reporting
 - Success planning and stakeholder alignment
 
-**Repository:** [Customer Success TTV Platform](https://github.com/Suhas-Kadhane/customer-success-ttv-platform)
+**Repository:** **[Customer Success TTV Platform](https://github.com/Suhas-Kadhane/customer-success-ttv-platform)**
 
 ---
 
