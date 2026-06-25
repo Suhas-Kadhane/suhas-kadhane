@@ -86,7 +86,6 @@ A lightweight browser extension/web app that simplifies complex content using AI
 **🛠️ Platforms & Tools**
 
 - **Salesforce:** Sales Cloud, Service Cloud, Experience Cloud, Data Cloud, Agentforce
-- **Development:** Apex, LWC, SOQL, SQL, JavaScript, HTML, CSS, Flow Builder, APIs, JSON
 - **Technical Skills:** Apex, LWC, SOQL, SQL, JavaScript, Flow Builder, APIs, JSON
 - **Documentation & Design:** Mermaid, Draw.io, Figma, Markdown
 - **Automation & AI:** OpenAI, Make.com, Cursor, Claude, Antigravity
