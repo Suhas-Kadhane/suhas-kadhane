@@ -1,10 +1,10 @@
 # Hi, I'm Suhas 👋
 
-Customer-focused SaaS professional with 8+ years of experience across Salesforce CRM, Product Operations, Customer Enablement, Technical Documentation, Business Analysis, and Process Automation.
+Customer-focused SaaS professional with 8+ years of experience across Salesforce CRM, Product Operations, Customer Enablement, Technical Documentation, and Business Process Automation.
 
-Passionate about designing customer-centric solutions that connect business goals, product strategy, and technology through Salesforce, AI automation, workflow optimization, and product management principles.
+I design and build customer-centric solutions using Salesforce, AI automation, and workflow systems to improve onboarding, adoption, and operational efficiency across SaaS environments.
 
-Currently building portfolio projects focused on Customer Success, Salesforce, AI agents, automation workflows, and SaaS product experiences.
+Currently building end-to-end portfolio projects spanning Customer Success systems, Salesforce solutions, AI agents, and automation-driven product workflows.
 
 ---
 
