@@ -1,103 +1,99 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&height=60&lines=Greetings+Humans!;I+am+Suhas.;Welcome+to+the+Matrix!"/>
-</p>
+# Hi, I'm Suhas 👋
+
+Customer-focused SaaS professional with 8+ years of experience across Salesforce CRM, Product Operations, Customer Enablement, Technical Documentation, Business Analysis, and Process Automation.
+
+Passionate about designing customer-centric solutions that connect business goals, product strategy, and technology through Salesforce, AI automation, workflow optimization, and product management principles.
+
+Currently building portfolio projects focused on Customer Success, Salesforce, AI agents, automation workflows, and SaaS product experiences.
 
 ---
-# 🏄‍♂️ Hi, I'm Suhas!
-**Customer-focused SaaS professional with a passion for CRM systems, automation, and AI-powered solutions. I build projects that simplify workflows, improve user experiences, and demonstrate practical applications of technology for business and customer success.**
 
----
+**⚡ Core Expertise**
 
-## What I Do
-
-- Build Salesforce automation using Flows, Apex, and Lightning Web Components
-- Design AI driven workflows using Agentforce and Data Cloud
-- Develop API based integrations and external service connections
-- Create structured technical documentation for systems and processes 
+* **Customer Success:** Customer Onboarding, Adoption & Retention, Customer Enablement, Success Planning, Stakeholder Management
+* **Salesforce Solutions:** Business Process Analysis, CRM Optimization, Flow Automation, Reporting & Dashboards
+* **Technical Documentation:** Knowledge Bases, User Guides, Process Documentation, Training Materials
+* **Product & Operations:** Process Improvement, Cross-Functional Collaboration, RevOps, Information Architecture
+* **AI & Automation:** Workflow Automation, Prompt Engineering, AI-Assisted Solutions
 
 ---
 
 ## Featured Projects:
 
-**Recent Salesforce Implementations:** **[SF Projects](https://github.com/Suhas-Kadhane/Salesforce-Business-Analyst-Toolkit)**
+**Customer Success TTV Platform:**
 
-## Other Projects:
+A portfolio SaaS platform that demonstrates how Customer Success teams drive onboarding, product adoption, retention, and customer outcomes. The project includes customer onboarding journeys, health scoring frameworks, success plans, QBRs, stakeholder management workflows, and Time-to-Value optimization strategies commonly used in B2B SaaS organizations. Inspired by modern Customer Success practices such as onboarding, health scoring, retention, and expansion workflows.
 
-### FilmClub CRM
+**Repository:** [Customer Success TTV Platform](https://github.com/Suhas-Kadhane/customer-success-ttv-platform)
 
-A full-stack Salesforce implementation that connects business workflows with a real world cinema experience.
+---
 
-**Key Features**
+**Salesforce Business Analyst Toolkit:** A collection of real-world Salesforce Business Analyst artifacts demonstrating business process analysis, requirements documentation, stakeholder management, user story creation, and solution design across Salesforce implementations.
 
-- **OMDb API Integration:** A custom Screen Flow that dynamically fetches IMDb metadata directly into Salesforce.
-- **Media Command Center:** A Netflix-style Home Page UI featuring visual posters and curated collections.
-- **Autonomous Support:** An Agentforce Service Agent that manages member RSVPs and movie FAQs.
-- **Agentforce AI Implementation:** Built and deployed an Agentforce Service Agent with 5 topic classifications and 6 grounded Knowledge Articles to automate member queries and RSVP handling.
+**Repository:** **[SF Projects](https://github.com/Suhas-Kadhane/Salesforce-Business-Analyst-Toolkit)**
+
+---
+
+**FilmClub CRM:** Salesforce Service Cloud implementation for a fictional cinema membership business featuring OMDb API integration, Agentforce-powered customer support, Knowledge Articles, and automated member workflows.
 
 **Repositories:** 
 
-[FilmClub CRM](https://github.com/Suhas-Kadhane/Salesforce-FilmClub-App/tree/6f4eec456438da2a282f8b05d75b6ad8630d079f)
+**[FilmClub CRM](https://github.com/Suhas-Kadhane/Salesforce-FilmClub-App/tree/6f4eec456438da2a282f8b05d75b6ad8630d079f)**
 
-[Agentforce Agent Implementation](https://github.com/Suhas-Kadhane/Salesforce-FilmClub-App/blob/6f4eec456438da2a282f8b05d75b6ad8630d079f/agentforce-ai-implementation.md)
-
----
-
-### Salesforce Recruiter Copilot
-
-An AI powered tool that converts Salesforce job descriptions into structured recruiter screening guides. Built to solve a real gap in Salesforce hiring where recruiters often lack context to evaluate technical roles effectively.
-
-**What it does:**
-
-- **Salesforce Stack Intelligence**: Extracts Salesforce technologies and platform components from job descriptions
-- **AI Question Generation Engine**: Generates recruiter friendly screening questions tailored to the role
-- **Experience Level Classifier**: Identifies seniority level and expected candidate profile
-- **Evaluation Framework Builder**: Creates a structured checklist for candidate assessment
-- **Automated Report Delivery System**: Generates and delivers output via document and email
-
-**How it works:**
-
-Google Form → Google Sheets → Automation → AI Processing → Google Docs → Email delivery
-
-**Tech Stack:**
-- Google Forms
-- Google Sheets
-- Make.com
-- OpenRouter
-- Google Docs
-- Gmail
-
-**Repository:** [Salesforce Recruiter Copilot](https://github.com/Suhas-Kadhane/salesforce-recruiter-copilot)
+**[Agentforce Agent Implementation](https://github.com/Suhas-Kadhane/Salesforce-FilmClub-App/blob/6f4eec456438da2a282f8b05d75b6ad8630d079f/agentforce-ai-implementation.md)**
 
 ---
 
-**🛠️ Toolbox**
+**Salesforce Recruiter Copilot:** AI-powered recruiter assistant that analyzes Salesforce job descriptions and generates screening questions, candidate evaluation frameworks, and hiring guides using Make.com and OpenRouter.
 
-- **Platforms:** Salesforce, Agentforce, Data Cloud, Sales/Service/Experience Cloud
-- **Development:** Apex, LWC, SOQL, JavaScript, HTML, CSS, Flow Builder (Record-Triggered/Orchestrator), JSON/APIs
-- **Tools:** GitHub, VS Code, Salesforce CLI
-- **Concepts:** APIs, Automation, System Design
-- **Strategy:** Technical Documentation, RevOps, Agile (Jira), Information Architecture
+**Repository:** **[Salesforce Recruiter Copilot](https://github.com/Suhas-Kadhane/salesforce-recruiter-copilot)**
+
+---
+## Other Projects
+
+### ExplainThis
+
+A browser extension that simplifies complex online content by providing AI-generated explanations and contextual insights directly within the user's workflow.
+
+**Repository:** **[Explain This](https://github.com/Suhas-Kadhane/explainthis-webapp)**
 
 ---
 
-[![Tech Stack](https://readme-typing-svg.demolab.com?font=Fira&weight=500&size=30&duration=3000&pause=500&color=00FF00&width=500&height=60&lines=%F0%9F%A7%B0+Tech+Stack)](https://git.io/typing-svg)
+**🛠️ Platforms & Tools**
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,html,css,python,markdown,mysql,postman,graphql,stackoverflow,github,git,githubactions,gitlab,firebase,vscode,figma,notion,ps,illustrator,&perline=10" />
+- **Salesforce:** Sales Cloud, Service Cloud, Experience Cloud, Data Cloud, Agentforce
+- **Development:** Apex, LWC, SOQL, SQL, JavaScript, HTML, CSS, Flow Builder, APIs, JSON
+- **Technical Skills:** Apex, LWC, SOQL, SQL, JavaScript, Flow Builder, APIs, JSON
+- **Documentation & Design:** Mermaid, Draw.io, Figma, Markdown
+- **Automation & AI:** OpenAI, Make.com, Cursor, Claude, Antigravity
+- **Tools:** GitHub, VS Code, Salesforce CLI, Postman, Jira, Notion
+
+---
+
+### Currently Learning
+
+REST APIs • Customer Success Engineering • AI Agents • Advanced Salesforce Architecture
+
+---
+
+**🤝 Connect With Me**
+
+<p align="left">
+  <a href="https://linkedin.com/in/suhas-kadhane" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.salesforce.com/trailblazer/suhaskadhane" target="_blank">
+    <img alt="Salesforce Trailblazer" src="https://img.shields.io/badge/Salesforce-Trailblazer-21A0DF?style=for-the-badge&logo=salesforce&logoColor=white" />
+  </a>
+
+  <a href="https://medium.com/@suhaskadhane" target="_blank">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/suhasbuilds" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
-
----
-
-[![Connect With Me](https://readme-typing-svg.demolab.com?font=Fira&weight=500&size=30&duration=3000&pause=500&color=00FF00&width=500&height=60&lines=%F0%9F%94%97+Connect+with+Me)](https://git.io/typing-svg)
-
-<p align="center">
-    <a href="https://linkedin.com/in/suhas-kadhane" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=black" /></a>
-   <a href="https://x.com/suhasbuilds" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-0077B5?style=for-the-badge&logo=X&logoColor=black" /></a>
-    <a href="https://medium.com/@suhaskadhane" target="_blank"><img alt="medium" src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=Medium&logoColor=white" /></a>
-  <a href="https://www.salesforce.com/trailblazer/suhaskadhane" target="_blank"><img alt="salesforce" src="https://img.shields.io/badge/-Salesforce-21A0DF?style=for-the-badge&logo=Salesforce&logoColor=white" /></a>
-</p>
-<br>
 
 ---
