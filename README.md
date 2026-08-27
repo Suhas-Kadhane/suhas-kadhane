@@ -2,22 +2,33 @@
 
 Customer-focused SaaS professional with 8+ years of experience across Salesforce CRM, Product Operations, Customer Enablement, Technical Documentation, and Business Process Automation.
 
-I design and build customer-centric solutions using Salesforce, AI automation, and workflow systems to improve onboarding, adoption, and operational efficiency across SaaS environments.
+I design and build customer-centric solutions by translating business and customer requirements into practical workflows, integrations, automation, and technical solutions using Salesforce, Python, APIs, and AI.
 
-Currently building end-to-end portfolio projects spanning Customer Success systems, Salesforce solutions, AI agents, and automation-driven product workflows.
-
----
-
-**⚡ Core Expertise**
-
-* **Customer Success:** Customer Onboarding, Adoption & Retention, Customer Enablement, Success Planning, Stakeholder Management
-* **Salesforce Solutions:** Business Process Analysis, CRM Optimization, Flow Automation, Reporting & Dashboards
-* **Technical Documentation:** Knowledge Bases, User Guides, Process Documentation, Training Materials
-* **Product & Operations:** Process Improvement, Cross-Functional Collaboration, RevOps, Information Architecture
-* **AI & Automation:** Workflow Automation, Prompt Engineering, AI-Assisted Solutions
+Currently building end-to-end portfolio projects spanning Customer Success platforms, Salesforce applications, AI-powered solutions, API-driven systems, and automation workflows.
 
 ---
 
+## ⚡Core Expertise
+
+* **Solutions Engineering:** Solution Design, Requirements Analysis, Technical Discovery, API Integrations, Technical Troubleshooting
+* **Customer Success Engineering:** Customer Onboarding, SaaS Implementation, Product Adoption, Customer Enablement, Customer Value Realization
+* **Salesforce Solutions:** CRM Optimization, Flow Automation, Agentforce, Apex, LWC, Prompt Builder, Reporting & Dashboards
+* **Backend & APIs:** Python, FastAPI, REST APIs, PostgreSQL, SQLAlchemy, Swagger
+* **AI & Automation:** AI-Powered Solutions, Prompt Engineering, Workflow Automation, Make.com, n8n
+* **Technical Documentation:** API Documentation, Knowledge Bases, User Guides, Process Documentation, Training Materials
+
+---
+
+## 🛠️ Platforms & Tools
+
+- **Salesforce:** Sales Cloud, Service Cloud, Experience Cloud, Data Cloud, Agentforce, Flow Builder
+- **Development:** Python, Apex, LWC, SOQL, SQL, JavaScript, REST APIs, JSON
+- **Backend & Data:** FastAPI, PostgreSQL, SQLAlchemy
+- **AI & Automation:** Agentforce, Prompt Builder, OpenAI, Make.com, n8n
+- **Documentation & Design:** Swagger, Mermaid, Draw.io, Figma, Markdown
+- **Development Tools:** GitHub, VS Code, Salesforce CLI, Postman, Jira
+
+---
 ## Featured Projects:
 
 ### Customer Success TTV Platform
@@ -80,16 +91,6 @@ Key features:
 A lightweight browser extension/web app that simplifies complex content using AI-generated explanations directly in the user’s workflow.
 
 **Repository:** **[Explain This](https://github.com/Suhas-Kadhane/explainthis-webapp)**
-
----
-
-**🛠️ Platforms & Tools**
-
-- **Salesforce:** Sales Cloud, Service Cloud, Experience Cloud, Data Cloud, Agentforce
-- **Technical Skills:** Apex, LWC, SOQL, SQL, JavaScript, Flow Builder, APIs, JSON
-- **Documentation & Design:** Mermaid, Draw.io, Figma, Markdown
-- **Automation & AI:** OpenAI, Make.com, Cursor, Claude, Antigravity
-- **Tools:** GitHub, VS Code, Salesforce CLI, Postman, Jira, Notion
 
 ---
 
