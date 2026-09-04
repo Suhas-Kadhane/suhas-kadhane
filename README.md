@@ -1,37 +1,55 @@
 # Hi, I'm Suhas 👋
 
-Customer-focused SaaS professional with 8+ years of experience across Salesforce CRM, Product Operations, Customer Enablement, Technical Documentation, and Business Process Automation.
+Product & Data Operations professional transitioning into **Data Engineering**, with **8+ years of experience across Product, Data Operations, Customer Enablement, CRM/Salesforce, Business Development, and Technical Documentation**.
 
-I design and build customer-centric solutions by translating business and customer requirements into practical workflows, integrations, automation, and technical solutions using Salesforce, Python, APIs, and AI.
+I enjoy understanding how systems work, working with data, and building practical solutions. I'm currently strengthening my engineering fundamentals through **Python, SQL, PostgreSQL, data pipelines, and backend development**, with a longer-term focus on **Data Engineering, Cloud, and AI/ML**.
 
-Currently building end-to-end portfolio projects spanning Customer Success platforms, Salesforce applications, AI-powered solutions, API-driven systems, and automation workflows.
-
----
-
-## ⚡Core Expertise
-
-* **Solutions Engineering:** Solution Design, Requirements Analysis, Technical Discovery, API Integrations, Technical Troubleshooting
-* **Customer Success Engineering:** Customer Onboarding, SaaS Implementation, Product Adoption, Customer Enablement, Customer Value Realization
-* **Salesforce Solutions:** CRM Optimization, Flow Automation, Agentforce, Apex, LWC, Prompt Builder, Reporting & Dashboards
-* **Backend & APIs:** Python, FastAPI, REST APIs, PostgreSQL, SQLAlchemy, Swagger
-* **AI & Automation:** AI-Powered Solutions, Prompt Engineering, Workflow Automation, Make.com, n8n
-* **Technical Documentation:** API Documentation, Knowledge Bases, User Guides, Process Documentation, Training Materials
+I learn by building, turning real-world problems into working applications, APIs, data workflows, and engineering projects.
 
 ---
 
-## 🛠️ Platforms & Tools
+## Currently Learning
 
-- **Salesforce:** Sales Cloud, Service Cloud, Experience Cloud, Data Cloud, Agentforce, Flow Builder
-- **Development:** Python, Apex, LWC, SOQL, SQL, JavaScript, REST APIs, JSON
-- **Backend & Data:** FastAPI, PostgreSQL, SQLAlchemy
-- **AI & Automation:** Agentforce, Prompt Builder, OpenAI, Make.com, n8n
-- **Documentation & Design:** Swagger, Mermaid, Draw.io, Figma, Markdown
-- **Development Tools:** GitHub, VS Code, Salesforce CLI, Postman, Jira
+* **Python** — programming fundamentals, problem solving, OOP, file handling, testing
+* **SQL** — relational databases, analytical SQL, CTEs, window functions
+* **Data Engineering** — ETL/ELT, data pipelines, data modeling, orchestration
+* **Cloud & Data Platforms** — Azure, Databricks
+* **Big Data** — Apache Spark & PySpark
+* **Engineering Practices** — Git, Linux, Docker, APIs
 
 ---
-## Featured Projects:
 
-### Customer Success TTV Platform
+## Technical Skills
+
+* **Programming & Backend:** Python, FastAPI, REST APIs, SQLAlchemy, JavaScript, Apex
+* **Data & Databases:** PostgreSQL, SQL, SOQL, JSON, CSV, Data Modeling
+* **Data Engineering:** Data Pipelines, ETL / ELT, Apache Spark / PySpark *(learning)*, dbt *(learning)*, Azure Data Services *(learning)*, Databricks *(learning)*
+* **Salesforce:** Sales Cloud, Service Cloud, Experience Cloud, Data Cloud, Agentforce, Flow Builder, Apex, LWC, Prompt Builder
+* **AI & Automation:** Agentforce, OpenAI, Prompt Engineering, Make.com, n8n
+* **Engineering & Documentation:** Git / GitHub, VS Code, Postman, Swagger / OpenAPI, Jira, Markdown, Mermaid, Draw.io
+
+---
+
+## My Learning Philosophy
+
+I don't want to simply collect certificates or learn tools by following tutorials.
+
+My goal is to understand **how and why things work**, write code independently, debug problems, and build systems from scratch.
+
+> **Learn → Build → Break → Debug → Understand → Build again.**
+
+---
+
+## Career Direction
+
+**Data Engineering → Cloud Data Engineering → AI/ML Engineering**
+
+I'm currently focused on building strong foundations in programming, databases, and data engineering before moving deeper into distributed systems, cloud platforms, and AI/ML.
+
+---
+## Projects:
+
+### Customer Success TTV Platform *(Currently building)*
 
 A SaaS Customer Success simulation platform focused on improving Time-to-Value (TTV), onboarding efficiency, adoption tracking, and customer success planning.
 
@@ -91,12 +109,6 @@ Key features:
 A lightweight browser extension/web app that simplifies complex content using AI-generated explanations directly in the user’s workflow.
 
 **Repository:** **[Explain This](https://github.com/Suhas-Kadhane/explainthis-webapp)**
-
----
-
-### Currently Learning
-
-REST APIs • Customer Success Engineering • AI Agents • Advanced Salesforce Architecture
 
 ---
 
