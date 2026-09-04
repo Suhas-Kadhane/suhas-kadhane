@@ -1,6 +1,6 @@
 # Hi, I'm Suhas 👋
 
-Product & Data Operations professional transitioning into **Data Engineering**, with **8+ years of experience across Product, Data Operations, Customer Enablement, CRM/Salesforce, Business Development, and Technical Documentation**.
+Product & SaaS professional transitioning into **Data Engineering**, with **8+ years of experience across Product, Data Operations, Customer Enablement, CRM/Salesforce, Business Development, and Technical Documentation**.
 
 I enjoy understanding how systems work, working with data, and building practical solutions. I'm currently strengthening my engineering fundamentals through **Python, SQL, PostgreSQL, data pipelines, and backend development**, with a longer-term focus on **Data Engineering, Cloud, and AI/ML**.
 
