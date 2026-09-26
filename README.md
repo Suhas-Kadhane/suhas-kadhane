@@ -24,8 +24,8 @@ I learn by building, turning real-world problems into working applications, APIs
 * **Programming & Backend:** Python, FastAPI, REST APIs, SQLAlchemy, JavaScript, Apex
 * **Data & Databases:** PostgreSQL, SQL, SOQL, JSON, CSV, Data Modeling
 * **Data Engineering:** Data Pipelines, ETL / ELT, Apache Spark / PySpark *(learning)*, dbt *(learning)*, Azure Data Services *(learning)*, Databricks *(learning)*
-* **Salesforce:** Sales Cloud, Service Cloud, Experience Cloud, Data Cloud, Agentforce, Flow Builder, Apex, LWC, Prompt Builder
 * **AI & Automation:** Agentforce, OpenAI, Prompt Engineering, Make.com, n8n
+* **Salesforce:** Sales Cloud, Service Cloud, Experience Cloud, Data Cloud, Agentforce, Flow Builder, Apex, LWC, Prompt Builder
 * **Engineering & Documentation:** Git / GitHub, VS Code, Postman, Swagger / OpenAPI, Jira, Markdown, Mermaid, Draw.io
 
 ---
